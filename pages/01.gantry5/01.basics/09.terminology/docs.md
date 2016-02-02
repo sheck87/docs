@@ -21,7 +21,7 @@ The **Base Outline** acts as the global default by which all other unassigned Ou
 [/ui-tab]
 [ui-tab title="WordPress"]
 
-An **Outline** creates a set of standard settings for the layout, particle(s), widget position(s), any scripting, and style of an area of your site. Outlines can be assigned to a specific page or several pages depending on your needs. This enables you to apple different styles and layout configurations to different pages (or types of pages) with ease.
+An **Outline** creates a set of standard settings for the layout, particle(s), widget position(s), any scripting, and style of an area of your site. Outlines can be assigned to a specific page or several pages depending on your needs. This enables you to apply different styles and layout configurations to different pages (or types of pages) with ease.
 
 The **Base Outline** acts as the global default by which all other Outlines are based. Any setting not specified in another outline is deferred to this outline.
 
